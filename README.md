@@ -4,7 +4,7 @@ aws cicd pipeline build beanstalk tomcat app
 # Continuous Integration and Continuous Deployment using AWS CodePipeline Example
 
 ## Architecture
-<img src="\src\main\webapp\AWS-CP-CC-CB-CD-LB-ASG-AWS-CP-CC-CB-Beanstalk.jpg" width="90%" />
+<img src="/src/main/webapp/AWS-CP-CC-CB-CD-LB-ASG-AWS-CP-CC-CB-Beanstalk.jpg" width="90%" />
 
 ## Flow
 - Source: CodeCommit
