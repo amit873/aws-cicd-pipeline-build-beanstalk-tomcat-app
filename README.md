@@ -12,7 +12,7 @@ aws cicd pipeline build beanstalk tomcat app
 - Continuous Deployment: AWS CodeDeploy - leveraged Amazon Elastic BeanStalk for deployment
 
 ## Test App-
-http://<IP>/
+http://IP-Address/
 
 ## Path for index.jsp -- 
 \aws-cicd-pipeline-build-beanstalk-tomcat-app\src\main\webapp\index.jsp
